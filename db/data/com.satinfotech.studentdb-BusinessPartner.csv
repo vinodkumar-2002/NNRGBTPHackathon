@@ -1,0 +1,2 @@
+bpno,name,Address1,Address2,City,State,PINCode,is_gstin_registered,is_vendor,is_customer
+2c60b6d5-c221-4639-819a-0fede3631c5a,Vinod,a,b,hyd,ts,500083,true,true,true
